@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6281315587426@s.whatsapp.net"],
+  "ownerName": ["Own-ZYAX 愛"],
+  "botName": "Zyax botz",
+  "sessionName": "LatinaQr",
+  "pathimg": "./media/Latina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
